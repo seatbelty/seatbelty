@@ -1,0 +1,32 @@
+{
+  "$schema": "https://antigravity.google/schemas/plugin.json",
+  "name": "seatbelty",
+  "version": "1.0.0",
+  "displayName": "Seatbelty",
+  "description": "Deterministic runtime guardrails, secret redaction, and PII masking for autonomous agents.",
+  "author": {
+    "name": "Seatbelty Core Team",
+    "email": "maintainers@seatbelty.dev",
+    "url": "https://github.com/seatbelty/seatbelty"
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seatbelty/seatbelty.git"
+  },
+  "keywords": [
+    "security",
+    "guardrails",
+    "pii",
+    "secrets",
+    "agent-safety",
+    "devsecops",
+    "antigravity"
+  ],
+  "homepage": "https://github.com/seatbelty/seatbelty",
+  "suggestedPrompts": [
+    "Run /seatbelty-audit to review session activity",
+    "Show recent blocked actions from session",
+    "Explain active runtime security policies"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "seatbelty",
+  "displayName": "Seatbelty",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "category": "Security & Governance",
+  "shortDescription": "Deterministic runtime guardrails, secret redaction, and PII masking for autonomous agents.",
+  "repository": "https://github.com/seatbelty/seatbelty",
+  "entrypoint": "plugin.json"
+}
